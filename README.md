@@ -1,6 +1,6 @@
 ![atividade avaliativa](https://img.shields.io/badge/atividade%20avaliativa-C++-red)
 
-# 🧠 Jogo de Palavras Cruzadas - C++
+# 🧠 Jogo de Palavras Cruzadas - C+
 > Atividade Avaliativa – Lógica de Programação | 1º Semestre ADS
 
 Repositório referente à **Atividade Avaliativa Final (Exame)** da disciplina de **Lógica de Programação**, com o objetivo de desenvolver um jogo completo de **palavras cruzadas** utilizando **funções, matrizes e biblioteca personalizada em C++**.
