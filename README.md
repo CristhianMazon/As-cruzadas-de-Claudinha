@@ -1,4 +1,4 @@
-![atividade avaliativa](https://img.shields.io/badge/atividade%20avaliativa-lógica%20de%20programação-brightgreen)
+![atividade avaliativa](https://img.shields.io/badge/atividade%20avaliativa-C++-brightgreen)
 
 # 🧠 Jogo de Palavras Cruzadas - C++
 > Atividade Avaliativa – Lógica de Programação | 1º Semestre ADS
